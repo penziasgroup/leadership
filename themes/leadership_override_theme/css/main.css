@@ -1,0 +1,22 @@
+/* override theme css */
+.header-block p.course-name a {
+  font-size:31px;
+  line-height:38px;
+}
+
+.front .hero-copy {
+  display:none;
+}
+
+.front .region-secondary-content .views-field-field-hero-image {
+  width:100%;
+  margin:0;
+  float:none;
+}
+
+@media (max-width:768px) {
+  .header-block p.course-name a {
+    font-size: 20px;
+    line-height: 29px;
+  }
+}
