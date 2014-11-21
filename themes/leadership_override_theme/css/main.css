@@ -1,4 +1,9 @@
 /* override theme css */
+.sharethis-wrapper {
+  width:165px;
+  margin:10px auto 0;
+}
+
 .header-block p.course-name a {
   font-size:31px;
   line-height:38px;
